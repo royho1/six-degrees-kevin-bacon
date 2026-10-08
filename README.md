@@ -71,6 +71,20 @@ python3 baconator.py
 ['Kevin Bacon']
 ```
 
+## Screenshots
+
+### BFS path
+
+![BFS path](docs/screenshots/rdj-bfs-path.png)
+
+Shortest path from Robert Downey Jr. to Kevin Bacon via shared movies.
+
+### Test cases
+
+![Test cases](docs/screenshots/test-cases.png)
+
+Sanity checks for minimum paths, valid longer paths, invalid inputs, and a degree-2 Snoop Dogg path.
+
 ## Data Structures and Algorithms
 
 - **Graph** (adjacency list with dictionary-based edges)
